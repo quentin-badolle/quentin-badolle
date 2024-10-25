@@ -7,6 +7,6 @@ Currently working on _Theoretical and Computational Approaches for Stochastic Ch
 **Past research projects:**
 
 - _Can 21st century agriculture be insured? - The role of innovation_: master's thesis under the supervision of [Prof. Johan Hombert](https://scholar.google.com/citations?user=dl2D4z0AAAAJ&hl=fr&oi=ao) (HEC Paris), partly conducted at AXA Climate
-- _Generalised best arm identification in the multi-armed bandit setting_: master's thesis under the supervision of [Prof. Anders Kock](https://scholar.google.dk/citations?user=7DmIb44AAAAJ&hl=en) (University of Oxford)
+- _Generalised best arm identification in the multi-armed bandit setting_: master's thesis under the supervision of [Prof. Anders Kock](https://scholar.google.dk/citations?user=7DmIb44AAAAJ&hl=en) (University of Oxford), evolved into the paper [Treatment recommendation with distributional targets](https://www.sciencedirect.com/science/article/pii/S0304407622001518)
 - _Segmentation of 3D pictures of rat lungs_: master's project under the supervision of [Prof. Bertrand Maury](https://scholar.google.dk/citations?hl=en&user=SD1VVmgAAAAJ) (Université Paris-Saclay)
 - _Functional role of small ribonucleic acids in Solanum Lycopersicum through the study of hen1 mutants_: master's thesis under the supervision of [Prof. David Baulcombe](https://scholar.google.co.uk/citations?user=NPrjUiYAAAAJ&hl=en) (University of Cambridge)
